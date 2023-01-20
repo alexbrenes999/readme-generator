@@ -45,7 +45,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-##Demo Video
+## Demo Video
 
 https://user-images.githubusercontent.com/116224156/213816240-36f9e70a-cdb3-46c7-80c8-eee334d19e29.mp4
 
