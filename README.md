@@ -50,8 +50,12 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
+## Screenshot of README file created using the application:
+![readme sample](https://user-images.githubusercontent.com/116224156/213818843-f3eda94a-2e5f-43bc-9f32-26cccf60f78e.PNG)
 
-## Demo Video
+As you can see, all the data entered in the terminal matches exactly to the data printed on the README file!
+
+## Demo Video:
 
 https://user-images.githubusercontent.com/116224156/213816240-36f9e70a-cdb3-46c7-80c8-eee334d19e29.mp4
 
