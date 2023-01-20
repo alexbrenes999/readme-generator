@@ -1,5 +1,11 @@
 # README file generator!
 
+## Description
+This app is used to create a very quick and easy README file to allow you to spend more time on typing whats really important ... CODE!
+
+## Install
+You'll need to have both node.js and inquirer installed in your machine to properly run this application.
+
 ## Your Task
 
 When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions&mdash;this last part increases the likelihood that other developers will contribute to the success of the project. 
